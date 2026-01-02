@@ -11,7 +11,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-- 🎓 Computer Science student at **Delhi University (PGDAV College)**
+- 🎓 Computer Science student at **Delhi University **
 - 🌱 Currently learning **Python, C++, DSA & Core CS concepts**
 - 🧠 Interested in **problem solving, research & web exploration**
 - 🎨 I work with **Canva** for design and presentations
